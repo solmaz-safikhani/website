@@ -86,3 +86,6 @@
     margin-top: 50px;
     margin-left: 350px;
 }
+*{
+    flex-wrap: wrap;
+}
