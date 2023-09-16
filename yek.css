@@ -1,0 +1,115 @@
+*{
+    flex-wrap: wrap;
+    }
+    
+    .nav{
+        display: flex;
+        justify-content: space-around;
+       
+    }
+    .div{
+        
+        border-style: solid;
+        border-radius: 1%;
+    }
+    .one{
+        border-color: aqua;
+        border-style: solid;
+        background-color: aqua;
+        width: 258px;
+        height: 350px;
+        border-radius: 10%;
+    }
+    
+    .h6{
+        margin-left: 100px;
+    }
+    .divv{
+        
+        background-color: blue;
+        width: 40px;
+        height: 40px;
+        margin-left: 105px;
+        border-radius: 25%;
+        margin-bottom: 200px;
+        
+    }
+    .a{
+        color: aliceblue;
+        bottom: 20px;
+        top: 10px;
+        display: inline-block;
+      
+        border-radius: 25%;
+    }
+    .img{
+        border-radius: 15%;
+    }
+    
+    .two{
+        border-color: aqua;
+        border-style: solid;
+        background-color: aqua;
+        width: 258px;
+        height: 350px;
+        border-radius: 10%;
+        margin-left: 150px;
+        display: inline-block;
+    }
+    
+    .imgg{
+        border-radius: 10%;
+    }
+    .h66{
+    margin-left: 105px;
+    }
+    
+    .divvv{
+        background-color: blue;
+        width: 40px;
+        height: 40px;
+        border-radius: 25%;
+        margin-bottom: 200px;
+        margin-left: 100px;
+        display: inline-block;
+    }
+    .more{
+        color: aliceblue;
+        margin-bottom: 200px;
+        margin-left: 1px;
+      
+    }
+    .ab{
+        color: aliceblue;
+    }
+    .imggg{
+        border-radius: 25%;
+        margin-left: 20px;
+    }
+    .divvvv{
+        background-color: blue;
+        width: 40px;
+        height: 40px;
+        border-radius: 25%;
+        margin-bottom: 100px;
+        margin-left: 100px;
+        display: inline-block;
+    }
+    .three{
+        border-color: aqua;
+        border-style: solid;
+        background-color: aqua;
+        width: 258px;
+        height: 350px;
+        border-radius: 10%;
+        margin-left: 150px;
+        display: inline-block;
+    }
+    
+    .h666{
+        margin-left: 105px;
+    }
+    .row{
+        display: flex;
+        flex-direction: row;
+    }

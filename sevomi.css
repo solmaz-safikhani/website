@@ -1,0 +1,88 @@
+.nav{
+    display: flex;
+    justify-content: space-around;
+}
+.div1{
+    border-color: aqua;
+    border-style: solid;
+    background-color: aqua;
+    width: 158px;
+    height: 300px;
+    border-radius: 10%;
+}
+
+.img1{
+    width: 150px;
+    border-radius: 5%;
+    margin-left: 5px;
+    margin-top: 5px;
+}
+.h61{
+    margin-left: 60px;
+}
+
+.div2{
+    border-color: aqua;
+    border-style: solid;
+    background-color: aqua;
+    width: 158px;
+    height: 300px;
+    border-radius: 10%;
+}
+
+.img2{
+    width: 150px;
+    border-radius: 5%;
+    margin-left: 5px;
+    margin-top: 5px;
+}
+.h62{
+    margin-left: 60px;
+}
+
+.div3{
+    border-color: aqua;
+    border-style: solid;
+    background-color: aqua;
+    width: 158px;
+    height: 300px;
+    border-radius: 10%;
+}
+
+.img3{
+    width: 150px;
+    border-radius: 5%;
+    margin-left: 5px;
+    margin-top: 5px;
+}
+.h63{
+    margin-left: 60px;
+}
+
+.div4{
+    border-color: aqua;
+    border-style: solid;
+    background-color: aqua;
+    width: 158px;
+    height: 300px;
+    border-radius: 10%;
+}
+
+.img4{
+    width: 150px;
+    border-radius: 5%;
+    margin-left: 5px;
+    margin-top: 5px;
+}
+.h64{
+    margin-left: 60px;
+}
+.row{
+    display: flex ;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.table{
+    margin-top: 50px;
+    margin-left: 350px;
+}
